@@ -7,7 +7,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgeroto&layout=compact&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorgeroto&theme=radical)
 
