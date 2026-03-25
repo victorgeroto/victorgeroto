@@ -67,26 +67,47 @@
 ## 🌱 Projetos em destaque  
 
 ### 💳 SaaS Pagamento MEI  
-Sistema web para gestão e pagamento de MEI, focado em automação e usabilidade.  
+Sistema web voltado para microempreendedores, com foco na gestão e pagamento de obrigações do MEI.  
+**Funcionalidades:**  
+- Cadastro e autenticação de usuários  
+- Gestão de dados do MEI  
+- Interface para acompanhamento de pagamentos  
+- Integração entre front-end e back-end (API)  
+- Aplicação com arquitetura modular e foco em usabilidade  
 🔗 https://github.com/victorgeroto/Sass-Pagamento-MEI  
 
 ---
 
 ### 🎓 Tech Week SENAI Sorocaba  
-Desenvolvimento do site oficial do evento com integração à plataforma EVEN3.  
+Desenvolvimento do site oficial do evento acadêmico de tecnologia.  
+**Funcionalidades:**  
+- Interface responsiva desenvolvida com React  
+- Exibição de palestras, programação e palestrantes  
+- Integração com a plataforma EVEN3 para inscrições e certificados  
+- Navegação dinâmica (SPA) e organização por componentes  
 🔗 https://github.com/TechWeek-SENAI/techweek-senai-sorocaba  
 
 ---
 
 ### 🧠 Banco de Dados Inteligente  
-Projeto voltado à modelagem, análise e organização de dados.  
+Projeto voltado à estruturação e análise de dados para apoio à tomada de decisão.  
+**Funcionalidades:**  
+- Modelagem de banco de dados relacional  
+- Consultas SQL para análise de dados  
+- Estruturação de dados para melhor performance e organização  
+- Aplicação de conceitos de ETL e normalização  
 🔗 https://github.com/Pj-integrador-B-C-T-I/bancoDeDadosInteligente  
 
 ---
 
 ### 🌱 GreenAgri  
-Solução tecnológica voltada ao setor agrícola e gestão inteligente.  
-🔗 https://github.com/victorgeroto/GreenAgri  
+Aplicação voltada ao setor agrícola com foco em tecnologia e gestão.  
+**Funcionalidades:**  
+- Sistema para gerenciamento de informações agrícolas  
+- Interface para visualização e organização de dados  
+- Integração entre front-end e back-end  
+- Estrutura pensada para escalabilidade e uso prático  
+🔗 https://github.com/victorgeroto/GreenAgri
 
 ---
 
