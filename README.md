@@ -66,7 +66,7 @@
 
 ## 🌱 Projetos em destaque  
 
-### 💳 SaaS Pagamento MEI  
+### 💳 CreatorFLow
 Sistema web voltado para microempreendedores, com foco na gestão e pagamento de obrigações do MEI.  
 **Funcionalidades:**  
 - Cadastro e autenticação de usuários  
@@ -74,7 +74,7 @@ Sistema web voltado para microempreendedores, com foco na gestão e pagamento de
 - Interface para acompanhamento de pagamentos  
 - Integração entre front-end e back-end (API)  
 - Aplicação com arquitetura modular e foco em usabilidade  
-🔗 https://github.com/victorgeroto/Sass-Pagamento-MEI  
+🔗 https://github.com/victorgeroto/CreatorFLow
 
 ---
 
