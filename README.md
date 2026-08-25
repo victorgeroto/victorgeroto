@@ -1,7 +1,7 @@
-# 👋 Sou Victor Geroto  
+# Victor Geroto  
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAI  
-- 💻 Técnico em Desenvolvimento de Sistemas  
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas &&  iniciação científica (IC) aplicada em Engenharia de Software
+- 💻 Desenvolvedor FullStack - T4Egroup 
 - 🚀 Foco em desenvolvimento web, criando aplicações modernas, escaláveis e eficientes  
 
 ---
@@ -89,16 +89,6 @@ Desenvolvimento do site oficial do evento acadêmico de tecnologia.
 
 ---
 
-### 🧠 Banco de Dados Inteligente  
-Projeto voltado à estruturação e análise de dados para apoio à tomada de decisão.  
-**Funcionalidades:**  
-- Modelagem de banco de dados relacional  
-- Consultas SQL para análise de dados  
-- Estruturação de dados para melhor performance e organização  
-- Aplicação de conceitos de ETL e normalização  
-🔗 https://github.com/Pj-integrador-B-C-T-I/bancoDeDadosInteligente  
-
----
 
 ### 🌱 GreenAgri  
 Aplicação voltada ao setor agrícola com foco em tecnologia e gestão.  
