@@ -1,19 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:d1d5db,100:9ca3af&height=200&section=header&animation=fadeIn" alt="Waves" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:d1d5db,100:9ca3af&height=130&section=header&animation=fadeIn" alt="Waves" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Victor Toledo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=4A6FD4&center=true&vCenter=true&width=640&lines=Building+HR+and+compliance+platforms;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture" alt="What I do" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/victortoledo28/"><img src="https://img.shields.io/badge/LinkedIn-victortoledo28-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:victorgeroto28@gmail.com"><img src="https://img.shields.io/badge/Email-victorgeroto28@gmail.com-1b3a8c?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/victorgeroto?tab=followers"><img src="https://img.shields.io/github/followers/victorgeroto?style=flat-square&logo=github&label=followers&color=0b1d4d" alt="GitHub followers" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=640&lines=Building+HR+and+compliance+platforms;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture" alt="What I do" /><br/>
+  <a href="https://www.linkedin.com/in/victortoledo28/"><img src="https://img.shields.io/badge/LinkedIn-victortoledo28-4B5563?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:victorgeroto28@gmail.com"><img src="https://img.shields.io/badge/Email-victorgeroto28@gmail.com-6B7280?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/victorgeroto?tab=followers"><img src="https://img.shields.io/github/followers/victorgeroto?style=flat-square&logo=github&label=followers&color=9CA3AF&labelColor=4B5563" alt="GitHub followers" /></a>
   <!-- Quando o portfólio estiver publicado, troque o link e remova este comentário:
-  <a href="https://SEU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-online-4a6fd4?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://SEU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-online-6B7280?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   -->
 </p>
 
@@ -98,9 +95,9 @@ architecture that scales · real integrations · cloud · apps that work offline
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/go/RLtnCs3j"><img src="https://img.shields.io/badge/AWS_Academy-Cloud_Developing-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Academy Graduate — Cloud Developing" /></a>
-  <img src="https://img.shields.io/badge/Google_Cloud-Foundations-1b3a8c?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Foundations" />
-  <img src="https://img.shields.io/badge/Microsoft-Power_BI-0b1d4d?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Microsoft Power BI" />
+  <a href="https://www.credly.com/go/RLtnCs3j"><img src="https://img.shields.io/badge/AWS_Academy-Cloud_Developing-4B5563?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Academy Graduate — Cloud Developing" /></a>
+  <img src="https://img.shields.io/badge/Google_Cloud-Foundations-6B7280?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Foundations" />
+  <img src="https://img.shields.io/badge/Microsoft-Power_BI-9CA3AF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Microsoft Power BI" />
 </p>
 
 <p align="center">
@@ -112,7 +109,7 @@ architecture that scales · real integrations · cloud · apps that work offline
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=14&duration=4000&pause=4000&color=8B949E&center=true&vCenter=true&repeat=false&width=260&height=24&lines=Thanks+for+stopping+by" alt="Thanks for stopping by" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=14&duration=4000&pause=4000&color=9CA3AF&center=true&vCenter=true&repeat=false&width=260&height=24&lines=Thanks+for+stopping+by" alt="Thanks for stopping by" />
 </p>
 
 <p align="center">
