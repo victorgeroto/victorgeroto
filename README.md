@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:d1d5db,100:9ca3af&height=130&section=header&animation=fadeIn" alt="Waves" width="100%" /><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1200&pause=1000&center=true&vCenter=true&repeat=false&width=560&height=46&lines=Hi,+I%27m+Victor+Toledo+%F0%9F%91%8B&color=FFFFFF" />
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1200&pause=1000&center=true&vCenter=true&repeat=false&width=560&height=46&lines=Hi,+I%27m+Victor+Toledo+%F0%9F%91%8B&color=6B7280" alt="Hi, I'm Victor Toledo 👋" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1200&pause=1000&center=true&vCenter=true&repeat=false&width=560&height=46&lines=Hi%2C+I%27m+Victor+Toledo+%F0%9F%91%8B&color=FFFFFF" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1200&pause=1000&center=true&vCenter=true&repeat=false&width=560&height=46&lines=Hi%2C+I%27m+Victor+Toledo+%F0%9F%91%8B&color=6B7280" alt="Hi, I'm Victor Toledo 👋" />
   </picture><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture&color=9CA3AF" />
