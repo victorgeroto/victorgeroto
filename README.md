@@ -1,7 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:d1d5db,100:9ca3af&height=130&section=header&animation=fadeIn" alt="Waves" width="100%" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1200&pause=1000&color=4B5563&center=true&vCenter=true&repeat=false&width=560&height=46&lines=Hi,+I%27m+Victor+Toledo+%F0%9F%91%8B" alt="Hi, I'm Victor Toledo 👋" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture" alt="What I do" /><br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:d1d5db,100:9ca3af&height=130&section=header&animation=fadeIn" alt="Waves" width="100%" /><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1200&pause=1000&center=true&vCenter=true&repeat=false&width=560&height=46&lines=Hi,+I%27m+Victor+Toledo+%F0%9F%91%8B&color=FFFFFF" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1200&pause=1000&center=true&vCenter=true&repeat=false&width=560&height=46&lines=Hi,+I%27m+Victor+Toledo+%F0%9F%91%8B&color=6B7280" alt="Hi, I'm Victor Toledo 👋" />
+  </picture><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture&color=9CA3AF" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture&color=6B7280" alt="What I do" />
+  </picture><br/>
   <a href="https://www.linkedin.com/in/victortoledo28/"><img src="https://img.shields.io/badge/LinkedIn-victortoledo28-4B5563?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:victorgeroto28@gmail.com"><img src="https://img.shields.io/badge/Email-victorgeroto28@gmail.com-6B7280?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/victorgeroto?tab=followers"><img src="https://img.shields.io/github/followers/victorgeroto?style=flat-square&logo=github&label=followers&color=9CA3AF&labelColor=4B5563" alt="GitHub followers" /></a>
@@ -45,38 +51,44 @@ architecture that scales · real integrations · cloud · apps that work offline
 
 <table>
   <tr>
-    <td align="center" valign="top" width="50%">
-      <b>Languages</b><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs&perline=5" alt="TypeScript, JavaScript, Python, Java, C#" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <b>APIs & backend</b><br/>
-      <img src="https://skillicons.dev/icons?i=django,fastapi,spring,nodejs,dotnet&perline=5" alt="Django, FastAPI, Spring Boot, Node.js, ASP.NET Core" />
-    </td>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,bash" alt="TypeScript, JavaScript, Python, Java, C#, Bash" /></td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <b>Interfaces</b><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite&perline=5" alt="React, Next.js, Angular, Tailwind CSS, Vite" />
-    </td>
-    <td align="center" valign="top">
-      <b>Data</b><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=5" alt="PostgreSQL, MongoDB, MySQL, SQLite" />
-    </td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,spring,dotnet" alt="Node.js, Django, FastAPI, Spring Boot, ASP.NET Core" /></td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <b>Cloud & delivery</b><br/>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,linux&perline=5" alt="AWS, Google Cloud, Docker, GitHub Actions, Linux" />
-    </td>
-    <td align="center" valign="top">
-      <b>Day to day</b><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino&perline=5" alt="Git, GitHub, VS Code, Postman, Arduino/ESP32" />
-    </td>
+    <td align="center"><b>Frontend & Mobile</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind" alt="React, Next.js, Angular, Vite, Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="PostgreSQL, MySQL, MongoDB, SQLite" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & DevOps</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,nginx,linux" alt="AWS, Google Cloud, Docker, GitHub Actions, Nginx, Linux" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Git, GitHub, VS Code, Postman, Figma" /></td>
   </tr>
 </table>
 
-<sub>Also: React Native · Expo · PWA · Django REST Framework · Spring Security · JPA · SQLModel · JWT · Stripe · Asaas · Power BI · Scrum · GitFlow</sub>
+<details>
+<summary><b>More libraries & tools</b></summary>
+
+<br/>
+
+- **Architecture:** Clean Architecture · layered (MVC) · REST APIs · multi-tenancy
+- **Backend:** Django REST Framework · Spring Security · JPA · SQLModel · JWT · Stripe
+- **Frontend & Mobile:** React Native · Expo · PWA
+- **Data & BI:** Power BI
+- **Cloud:** EC2 · ECS · RDS · S3 · CloudWatch
+- **Process:** Scrum · GitFlow
+
+</details>
 
 </div>
 
