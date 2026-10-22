@@ -22,9 +22,9 @@ $ whoami
 victor-toledo  # full-stack developer · Sorocaba, SP · 🇧🇷
 
 $ cat now.txt
-→ shipping HR and compliance platforms at T4E Group
+→ shipping HR and compliance platforms
 → comparing Monolith, MVC and Clean Architecture on AWS (undergrad research)
-→ finishing Systems Analysis & Development at SENAI (2026)
+→ finishing Systems Analysis & Development (2026)
 
 $ cat i-care-about.txt
 architecture that scales · real integrations · cloud · apps that work offline
