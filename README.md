@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Victor Toledo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=640&lines=Building+HR+and+compliance+platforms;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture" alt="What I do" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture" alt="What I do" /><br/>
   <a href="https://www.linkedin.com/in/victortoledo28/"><img src="https://img.shields.io/badge/LinkedIn-victortoledo28-4B5563?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:victorgeroto28@gmail.com"><img src="https://img.shields.io/badge/Email-victorgeroto28@gmail.com-6B7280?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/victorgeroto?tab=followers"><img src="https://img.shields.io/github/followers/victorgeroto?style=flat-square&logo=github&label=followers&color=9CA3AF&labelColor=4B5563" alt="GitHub followers" /></a>
@@ -21,7 +21,7 @@ $ whoami
 victor-toledo  # full-stack developer · Sorocaba, SP · 🇧🇷
 
 $ cat now.txt
-→ shipping HR and compliance platforms
+→ shipping full-stack web applications
 → comparing Monolith, MVC and Clean Architecture on AWS (undergrad research)
 → finishing Systems Analysis & Development (2026)
 
