@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d4d,50:1b3a8c,100:4a6fd4&height=200&section=header&animation=fadeIn" alt="Waves" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d4d,50:1b3a8c,100:4a6fd4&height=220&section=header&text=Hi%2C%20I%27m%20Victor%20Toledo%20%F0%9F%91%8B&fontColor=ffffff&fontSize=46&fontAlignY=42&animation=fadeIn" alt="Hi, I'm Victor Toledo 👋" width="100%" />
 </p>
-
-<h1 align="center">Hi, I'm Victor Toledo 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=4A6FD4&center=true&vCenter=true&width=640&lines=Building+HR+and+compliance+platforms;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture" alt="What I do" />
