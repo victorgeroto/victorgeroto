@@ -1,11 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:d1d5db,100:9ca3af&height=130&section=header&animation=fadeIn" alt="Waves" width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Victor Toledo 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture" alt="What I do" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:d1d5db,100:9ca3af&height=130&section=header&animation=fadeIn" alt="Waves" width="100%" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1200&pause=1000&color=4B5563&center=true&vCenter=true&repeat=false&width=560&height=46&lines=Hi,+I%27m+Victor+Toledo+%F0%9F%91%8B" alt="Hi, I'm Victor Toledo 👋" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=640&lines=Building+full-stack+web+applications;Architecture+%C2%B7+Integrations+%C2%B7+Cloud;Researching+software+architecture" alt="What I do" /><br/><br/>
   <a href="https://www.linkedin.com/in/victortoledo28/"><img src="https://img.shields.io/badge/LinkedIn-victortoledo28-4B5563?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:victorgeroto28@gmail.com"><img src="https://img.shields.io/badge/Email-victorgeroto28@gmail.com-6B7280?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/victorgeroto?tab=followers"><img src="https://img.shields.io/github/followers/victorgeroto?style=flat-square&logo=github&label=followers&color=9CA3AF&labelColor=4B5563" alt="GitHub followers" /></a>
@@ -109,7 +105,7 @@ architecture that scales · real integrations · cloud · apps that work offline
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=14&duration=4000&pause=4000&color=9CA3AF&center=true&vCenter=true&repeat=false&width=260&height=24&lines=Thanks+for+stopping+by" alt="Thanks for stopping by" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=14&duration=4000&pause=4000&color=6B7280&center=true&vCenter=true&repeat=false&width=260&height=24&lines=Thanks+for+stopping+by" alt="Thanks for stopping by" />
 </p>
 
 <p align="center">
